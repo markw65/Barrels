@@ -3,7 +3,6 @@
         <string id="TestString">TestString</string>
     </strings>
     <layout id="TestLayout">
-        <!-- Undefined symbol TestBarrel.Strings.TestString -->
         <label id="TestLabel" text="@BarrelTest.Strings.TestString" x="0" y="0"/>
     </layout>
 </resources>
