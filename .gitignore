@@ -1,4 +1,5 @@
-/*/bin/
+/*/bin/*
+!/CompiledBarrel/bin/*.barrel
 /out*
 /node_modules/
 *~

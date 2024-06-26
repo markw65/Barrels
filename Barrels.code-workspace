@@ -6,6 +6,10 @@
 		{
 			"name": "BarrelTest",
 			"path": "BarrelTest"
+		},
+		{
+			"name": "CompiledBarrel",
+			"path": "CompiledBarrel"
 		}
 	],
 	"settings": {}

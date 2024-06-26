@@ -2,10 +2,12 @@ import Toybox.Application;
 import Toybox.Lang;
 import Toybox.WatchUi;
 
+import CompiledBarrel;
 class DataFieldWithBarrelsApp extends Application.AppBase {
 
     function initialize() {
         AppBase.initialize();
+        CompiledBarrel.BarrelClass.barrelMethod();
     }
 
     // onStart() is called on application start up
