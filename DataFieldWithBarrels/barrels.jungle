@@ -4,5 +4,5 @@
 BarrelTest = [../BarrelTest/monkey.jungle]
 base.barrelPath = $(base.barrelPath);$(BarrelTest)
 
-CompiledBarrel = "/Users/mwilliams/www/git/Barrels/CompiledBarrel/bin/CompiledBarrel-0.0.0.barrel"
+CompiledBarrel = "../CompiledBarrel/bin/CompiledBarrel-0.0.0.barrel"
 base.barrelPath = $(base.barrelPath);$(CompiledBarrel)
